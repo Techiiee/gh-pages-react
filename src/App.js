@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My Awesome React Application
+          My Awesome GitHub page using React.
         </p>
         <a
           className="App-link"
